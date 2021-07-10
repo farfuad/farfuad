@@ -5,17 +5,18 @@ Be me <br>
 -Got into a problem <br>
 -its really difficult<br> 
 -couldn't solve it<br>
--<br>
+-cheems.jpg<br>
 -started making some cool website cause c++ is hard <br>
 -everybody liked them <br>
 -i liked how everybody liked them<br>
 -fuad loves to code <br>
--<br>
+-sigma_male.mp4<br>
 -Went to highschool <br>
 -Need a backend language, chosed django without knowing much <br>
 -django is super cool and simple <br>
 -actually its python <br>
 -started learning 'vanilla' python <br>
+-friendship_ended_with_c++.jpg
 -whoa! its really simple <br>
 -farhan some cool projects with it <br>
 -farhaninto MUN <br>
