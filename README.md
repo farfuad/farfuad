@@ -9,7 +9,7 @@ Be me <br>
 -started making some cool website cause c++ is hard <br>
 -everybody liked them <br>
 -i liked how everybody liked them<br>
--fuad loves to code <br>
+-farhan loves to code <br>
 -sigma_male.mp4<br>
 -Went to highschool <br>
 -Need a backend language, chosed django without knowing much <br>
