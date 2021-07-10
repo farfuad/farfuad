@@ -18,5 +18,5 @@ Be me <br>
 -started learning 'vanilla' python <br>
 -friendship_ended_with_c++.jpg <br>
 -whoa! its really simple <br>
--farhan some cool projects with it <br>
--farhaninto MUN <br>
+-farhan made some cool projects with it <br>
+-farhan got into MUN <br>
