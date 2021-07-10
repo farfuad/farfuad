@@ -13,9 +13,9 @@ Be me <br>
 -😻<br>
 -Went to highschool 🏫<br>
 -Need a backend language, chosed django without knowing much 🤦🏽‍♂️<br>
--django is super cool and simple 👌🏽
--actually its python 🙆🏽‍♀️
--started learning 'vanilla' python 👩🏽‍💻
--whoa! its really simple 🙆🏽‍♀️
--fuad made some cool projects with it 🤹🏽‍♀️
--fuad got into MUN 👨🏽‍🎓
+-django is super cool and simple 👌🏽<br>
+-actually its python 🙆🏽‍♀️<br>
+-started learning 'vanilla' python 👩🏽‍💻<br>
+-whoa! its really simple 🙆🏽‍♀️<br>
+-fuad made some cool projects with it 🤹 <br>
+-fuad got into MUN 👨🏽‍🎓<br>
