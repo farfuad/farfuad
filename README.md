@@ -1,0 +1,21 @@
+Be me
+-Started coding cause its cool 🤦🏽‍♂️
+-started with c++ 🤦🏽‍♂️
+-confused_unga_bunga.jpg
+-Got into a problem 🙍🏽‍♂️
+-its really difficult 
+-couldn't solve it
+-😿
+-started making some cool website cause c++ is hard 😎
+-everybody liked them 🥰
+-i liked how everybody liked them🤩
+-fuad loves to code 😘
+-😻
+-Went to highschool 🏫
+-Need a backend language, chosed django without knowing much 🤦🏽‍♂️
+-django is super cool and simple 👌🏽
+-actually its python 🙆🏽‍♀️
+-started learning 'vanilla' python 👩🏽‍💻
+-whoa! its really simple 🙆🏽‍♀️
+-fuad made some cool projects with it 🤹🏽‍♀️
+-fuad got into MUN 👨🏽‍🎓
