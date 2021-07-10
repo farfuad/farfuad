@@ -16,7 +16,7 @@ Be me <br>
 -django is super cool and simple <br>
 -actually its python <br>
 -started learning 'vanilla' python <br>
--friendship_ended_with_c++.jpg
+-friendship_ended_with_c++.jpg <br>
 -whoa! its really simple <br>
 -farhan some cool projects with it <br>
 -farhaninto MUN <br>
