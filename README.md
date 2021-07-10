@@ -12,7 +12,7 @@ Be me <br>
 -fuad loves to code <br>
 -<br>
 -Went to highschool <br>
--Need a backend language, chosed django without knowing much 🏽‍♂️<br>
+-Need a backend language, chosed django without knowing much <br>
 -django is super cool and simple <br>
 -actually its python <br>
 -started learning 'vanilla' python <br>
